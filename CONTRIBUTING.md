@@ -7,7 +7,7 @@ Have a question? Before you do, please read the following guidelines.
 
 ### Got a question or problem?
 
-For quick questions there's no need to open an issue as you can reach us on
+For quick questions, there's no need to open an issue as you can reach us on
 [Discord][1].
 
 [1]: https://www.discord.gg/core-creators
