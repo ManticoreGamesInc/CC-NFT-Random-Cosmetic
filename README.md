@@ -28,12 +28,14 @@ published to OpenSea or even create your cosmetics and NFTs.
 The root of the template contains 2 custom properties.
 
 - **CosmeticTokens**
+
   The list of NFT tokens that the component will pull from. Because the NFTs are lazy minted, there is no way to get
   the set of tokens for the collection unless they are moved to the blockchain, which would cost gas.
 
   If you create a new collection of NFTs, add each token ID to this table.
 
 - **Cosmetics**
+
   The templates for the cosmetics. The component comes with 2 templates, Box 1 and Box 2. These 2 templates make up
   10 NFTs due to the unique colors that have been created and added to OpenSea.
 
