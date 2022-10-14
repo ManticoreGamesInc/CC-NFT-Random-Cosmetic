@@ -2,8 +2,8 @@
 
 # NFT Random Cosmetic
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-NFT-Random-Cosmetic/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-NFT-Random-Cosmetic/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-NFT-Random-Cosmetic?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-NFT-Random-Cosmetic/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-NFT-Random-Cosmetic/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-NFT-Random-Cosmetic?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
